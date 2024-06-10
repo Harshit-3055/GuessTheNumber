@@ -96,7 +96,7 @@ To run this project, you need Xcode installed on your Mac. Follow these steps:
 
    Copy code 
 
-   git clone https://github.com/yourusername/guess-the-number.git 
+   git clone https://github.com/Harshit-3055/GuessTheNumber
 
 2. Open the project in Xcode: 
 
